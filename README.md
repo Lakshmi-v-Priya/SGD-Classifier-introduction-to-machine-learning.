@@ -8,9 +8,13 @@ To write a program to predict the type of species of the Iris flower using the S
 
 ## Algorithm
 1.Import Necessary Libraries and Load Data
+
 2.Split Dataset into Training and Testing Sets
+
 3.Train the Model Using Stochastic Gradient Descent (SGD)
+
 4.Make Predictions and Evaluate Accuracy
+
 5.Generate Confusion Matrix
 
 ## Program:
@@ -20,6 +24,7 @@ Program to implement the prediction of iris species using SGD Classifier.
 Developed by:  Lakshmi Priya .V
 RegisterNumber:  212223220049
 */
+```
 ```
 import pandas as pd
 from sklearn.datasets import load_iris
